@@ -1,4 +1,5 @@
 "BioMistral Medical RAG Chatbot using BioMistral Open Source LLM"
+
 This project implements a Retrieval-Augmented Generation (RAG) chatbot designed to provide accurate medical information using BioMistral-7B, an open-source large language model. The chatbot retrieves relevant information from a document titled "healthyheart.pdf" and generates coherent responses that are informed by this external knowledge source.
 
 Key Technologies & Frameworks
